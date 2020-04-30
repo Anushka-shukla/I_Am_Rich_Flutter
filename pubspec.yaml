@@ -17,12 +17,10 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-
   
   uses-material-design: true
 
-
   assets:
-   - images/output-onlinepngtools.png
+   - lib/images/gs.png
   
 
