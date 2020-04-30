@@ -2,7 +2,9 @@
 // the main function is the starting point for all our flutter apps
 // the Scaffold creates a space for adding all the widgets
 // now we add an appbar on the top it can have title, icon etc.
-//
+// App icon generator is used for icon for the app , darag and drop the pic there and replce all the android and ios folders hdmi and runner
+
+
 import 'package:flutter/material.dart';
 
 void main() {
