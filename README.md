@@ -1,6 +1,8 @@
-# i_am_rich_app_brewery
+# i_am_rich_app_brewery :upside_down_face:
 
 A new Flutter project.
+## The screenshot of the Application is attached herewith :
+![test]()
 
 ## Getting Started
 
