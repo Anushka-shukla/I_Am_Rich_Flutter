@@ -2,7 +2,7 @@
 
 A new Flutter project.
 ## The screenshot of the Application is attached herewith :
-![test]()
+![test](https://github.com/Anushka-shukla/I_am_rich_Flutter/blob/master/lib/images/WhatsApp%20Image%202020-05-01%20at%2012.20.28%20AM%20(1).jpeg)
 
 ## Getting Started
 
